@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Oracle_Moocmain:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Oracle_Moocmain.war">
+      <element id="artifact" artifact-name="Oracle_Moocmain:war exploded" />
+    </root>
+  </artifact>
+</component>
